@@ -1,0 +1,11 @@
+Analysis of Citi_Bike_NY_Story 
+
+1. Rush hour(8:00 and 17:00-18:00) seems to be the peak hours for riders.
+
+2. In the summer, more people ride bikes during the evening rush hour, but in the winter, more people ride bikes during the morning rush hour.
+
+3. September 2019 had the lowest number of records at 49259, while April 2020 had the lowest number of records at 9273.
+
+4. In May 2020, the number of records grew by 170% from April. This is the greatest increase because April had the lowest number of records.
+
+
